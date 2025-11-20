@@ -1,0 +1,19 @@
+{
+  "name": "github-lang-stats-api",
+  "version": "1.0.0",
+  "description": "Custom GitHub Language Statistics API - Aggregates language data from personal and organization repositories",
+  "main": "api/stats.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["github", "stats", "api", "vercel", "serverless"],
+  "author": "NTT-DevFPT",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/graphql": "^7.0.2"
+  },
+  "devDependencies": {
+    "vercel": "^33.0.1"
+  }
+}
