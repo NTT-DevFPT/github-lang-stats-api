@@ -1,4 +1,3 @@
-cat > api/stats.js << 'EOF'
 const GitHubClient = require('../lib/github');
 const LanguageAggregator = require('../lib/aggregator');
 const SVGGenerator = require('../lib/svg-generator');
