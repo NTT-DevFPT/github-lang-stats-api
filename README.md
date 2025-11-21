@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Platform-Vercel-000000?style=for-the-badge&logo=vercel" alt="Vercel">
   <img src="https://img.shields.io/badge/API-GitHub_GraphQL_v4-181717?style=for-the-badge&logo=github" alt="GitHub API">
   <img src="https://img.shields.io/badge/Toolkit-@octokit/graphql-24292F?style=for-the-badge" alt="Octokit">
+    <img src="https://github.com/NTT-DevFPT/github-lang-stats-api/actions/workflows/ci.yml/badge.svg" alt="CI">
 </div>
 
 <div align="center">
